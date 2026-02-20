@@ -279,6 +279,6 @@ DRL is not just for games – it can control real robot arms with multiple degre
 
 ## 🧾 License & Usage
 
-These notes are for personal study and reference. All publications are the work of Alejandro Hernandez Cordero and his collaborators. For more details, visit his [LinkedIn profile](https://www.linkedin.com/in/alejandrohernandezcordero/).
+These notes are for personal study and reference. All publications are the work of Alejandro Hernandez Cordero and his collaborators. For more details, visit his [LinkedIn profile](https://www.linkedin.com/in/ahcorde/).
 
 ⭐ **Feel free to star this repo if you find it useful!**
